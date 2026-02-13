@@ -36,6 +36,7 @@ Language bindings for interacting with kdb+.
 * **[logging](https://github.com/KxSystems/logging)** - Logging utilities for KDB-X
 * **[printf](https://github.com/KxSystems/printf)** - Formatted printing mirroring `printf` C99 standard
 * **[fusionx](https://github.com/KxSystems/fusionx)** - Portable native library wrappers for KDB-X
+* **[datagen](https://github.com/KxSystems/datagen)** - Functions for generating synthetic data for various domains
 
 ---
 
