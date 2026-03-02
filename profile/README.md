@@ -37,7 +37,7 @@ Language bindings for interacting with kdb+.
 * **[printf](https://github.com/KxSystems/printf)** - Formatted printing mirroring `printf` C99 standard
 * **[fusionx](https://github.com/KxSystems/fusionx)** - Portable native library wrappers for KDB-X
 * **[datagen](https://github.com/KxSystems/datagen)** - Functions for generating synthetic data for various domains
-* **[taq](https://github.com/KxSystems/datagen)** - Parse NYSE TAQ psv files and persist results in kdb+ format.
+* **[taq](https://github.com/KxSystems/taq)** - Parse NYSE TAQ psv files and persist results in kdb+ format.
 
 ---
 
