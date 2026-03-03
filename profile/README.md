@@ -38,6 +38,7 @@ Language bindings for interacting with kdb+.
 * **[fusionx](https://github.com/KxSystems/fusionx)** - Portable native library wrappers for KDB-X
 * **[datagen](https://github.com/KxSystems/datagen)** - Functions for generating synthetic data for various domains
 * **[taq](https://github.com/KxSystems/taq)** - Parse NYSE TAQ psv files and persist results in kdb+ format.
+* **[dbmaint](https://github.com/KxSystems/dbmaint)** - Functions for making changes to a persisted kdb+ database.
 
 ---
 
